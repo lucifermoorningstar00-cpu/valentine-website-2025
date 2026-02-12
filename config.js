@@ -9,7 +9,7 @@ const CONFIG = {
     pageTitle: "Will You Be My Valentine? 💝",
 
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓', '💚'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓', '💚'],  // Heart emojisz
         bears: ['🧸', '🐻', '🥰', '😻']                       // Cute bear emojis
     },
 
